@@ -1,63 +1,82 @@
-{
-
-	[“Which is the national dance of India?”,“Bharatanatyam “],
-  
-	[“Which is the oldest dance of India?”,“Odissi”],
-  
-	[“Bihu is folk dance of which state in India?”,“Assam”],
-  
-	[“Jata-Jatin is folk dance of which state?”,“Bihar”	],
-  
-	[“Rauf is folk dance of which state?”,	“Jammu and Kashmir”],
-  
-	[“Which is the largest dam in India?”,”Tehri dam”],
-  
-	[“Which is the longest dam in India?”,”Hirakund dam”],
-  
-	[“Which is the oldest dam in India?”,”Kallanai Dam”],
-  
-	[“Bhakra Nangal Dam is on which river?”,”Setluj river”],
-  
-	[“Where is the Rihand Dam?”,”Uttar Pradesh”],
-  
-	[“Which is the national tree of India?”,”The Banyan Tre”],
-  
-	[“What is the scientific name of national tree of India?”,”Ficus Bengalensis”],
-  
-	[“Where is National tree of India is found?”,”All over the country”],
-  
-	[“What is the family of Banyan Tree?”,”Moraceae”],
-  
-	[“What is the class of Banyan Tree?”,”Magnoliopsida”],
-  
-	[“What is the national animal of India?”,”he Royal Bengal Tiger”],
-  
-	[“What is the National Song Of India called?”,”Vande Mataram”],
-  
-	[“Which is the longest river of South India?”,”Godavar”],
-  
-	[“What is the Capital of India?”,”New Delhi”],
-  
-	[“What is the capital of Gujarat?”.”Gandhinagar”],
-  
-	[“What is India’s smallest state by area?”.”Goa”],
-  
-	[“When is India’s Independence Day?”.”August 15”],
-  
-	[“In what state is Bengaluru located?”,”Karnataka”],
-  
-	[“Where did chess first originate?”,”India”],
-  
-	[“Which Indian president is nicknamed “Missile Man?””,”A. P. J. Abdul Kalam”],
-  
-	[”What is the currency of India?”,”Rupee”],
-  
-	[“Which Indian festival is associated with colors?”,”Holi”],
-  
-	[“Which is the most populous state in India?”,”Uttar Pradesh”],
-  
-	[“Who is the chairman of Reliance Industries limited?”,”Mukesh Ambani”],
-  
-	[“Which Indian festival is known as the festival of lights?”,”Diwali”]
-  
-}
+ {
+        {
+            “question”:“Which is the national dance of India ?”,
+            “answer”:“Bharatanatyam “
+        },
+        {
+            “question”:“Which is the oldest dance of India?”,
+            “answer”:“Odissi “
+        },
+        {
+            “question”:“Bihu is folk dance of which state in India?”,
+            “answer”:“Assam “
+        },
+        {
+            “question”:“Jata-Jatin is folk dance of which state?”,
+            “answer”:“Bihar “
+        },
+        {
+            “question”:“Rauf is folk dance of which state?”,
+            “answer”:“Jammu and Kashmir “
+        },
+        {
+            “question”:“Which is the largest dam in India?”,
+            “answer”:“Tehri dam “
+        },
+        {
+            “question”:“Which is the national dance of India ?”,
+            “answer”:“Hirakund dam “
+        },
+        {
+            “question”:“Which is the oldest dam in India?”,
+            “answer”:“Kallanai Dam “
+        },
+        {
+            “question”:“Bhakra Nangal Dam is on which river?”,
+            “answer”:“Setluj river “
+        },
+        {
+            “question”:“Where is the Rihand Dam??”,
+            “answer”:“Uttar Pradesh “
+        },
+ 	{
+            “question”:“Which is the national tree of India?”,
+            “answer”:“The Banyan Tree“
+        },
+        {
+            “question”:“What is the scientific name of national tree of India?”,
+            “answer”:“Ficus Bengalensis “
+        },
+        {
+            “question”:“Where is National tree of India is found?”,
+            “answer”:“All over the country “
+        },
+        {
+            “question”:“What is the family of Banyan Tree?”,
+            “answer”:“Moraceae “
+        },
+        {
+            “question”:“What is the class of Banyan Tree?”,
+            “answer”:“Magnoliopsida “
+        },
+        {
+            “question”:“What is the national animal of India?”,
+            “answer”:“The Royal Bengal Tiger “
+        },
+        {
+            “question”:“What is the National Song Of India called?”,
+            “answer”:“Vande Mataram “
+        },
+        {
+            “question”:“What is the Capital of India?”,
+            “answer”:“New Delhi “
+        },
+        {
+            “question”:“What is the capital of Gujarat?”,
+            “answer”:“Gandhinagar “
+        },
+        {
+            “question”:“What is India’s smallest state by area?”,
+            “answer”:“Goa “
+        },
+	
